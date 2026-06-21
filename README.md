@@ -1,2 +1,14 @@
 # arenamk-journal
-HTML page archive and documentation
+
+HTML 页面维护仓库
+
+本仓库用于整理 HTML 页面输出结果，并保留对应的仓库说明。
+
+## 文件说明
+
+- 页面文件直接提交到仓库
+- 仓库说明用于辅助维护
+
+## 备注
+
+仓库内容用于静态页面归档，具体页面请以 HTML 文件为准。
